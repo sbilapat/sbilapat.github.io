@@ -72,8 +72,9 @@ nav a.active {
 }
 
 .hero-photo {
-  flex: 1;
-  height: 85vh;
+  flex: 0 0 auto;
+  width: 320px;
+  height: 320px;
 }
 
 .hero-photo img {
